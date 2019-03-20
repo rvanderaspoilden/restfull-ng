@@ -1,0 +1,8 @@
+{
+    "/restfull": {
+        "target": "http://vps662276.ovh.net:8080/restfull",
+        "pathRewrite": {
+            "^/restfull": ""
+        }
+    }
+}
